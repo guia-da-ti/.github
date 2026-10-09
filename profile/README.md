@@ -6,6 +6,10 @@ Reunimos indicações para quem está começando, estudando ou trabalhando na á
 
 ## O que você encontra
 
+[![Demonstração do Guia da TI com o catálogo de links e o fórum da comunidade](https://github.com/guia-da-ti/.github/blob/main/profile/guia-comunidade.gif?raw=true)](https://guiadati.com/sobre)
+
+Explore os links e converse com a comunidade. [Conheça o Guia da TI](https://guiadati.com/sobre).
+
 - **Conteúdo e aprendizado:** cursos, livros, artigos, tutoriais e caminhos de estudo.
 - **Criadores e comunidades:** pessoas que compartilham conhecimento e espaços para se conectar.
 - **Ferramentas e projetos:** recursos úteis para estudar, criar e trabalhar.
